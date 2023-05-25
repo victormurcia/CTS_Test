@@ -1,0 +1,1 @@
+This folder contains the generated cohorts for a series of clinical trial eligibility criteria generated with MDClone
